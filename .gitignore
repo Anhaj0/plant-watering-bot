@@ -1,0 +1,3 @@
+# Ignore plant dataset and run file
+plants/
+run.txt
