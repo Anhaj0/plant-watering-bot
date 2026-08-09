@@ -1,7 +1,6 @@
-```markdown
 # 🌿 Plant Watering Bot - Plant Detection System
 
-This project trains a custom Convolutional Neural Network (CNN) model to detect whether an object is a **plant** or **not a plant** using images. It is part of a larger robotic system designed to autonomously water plants based on real-time camera input.
+Created by **[Anhaj Uwaisulkarni](https://anhaj0.github.io/)**, this project trains a custom Convolutional Neural Network (CNN) model to detect whether an object is a **plant** or **not a plant** using images. It is part of a larger robotic system designed to autonomously water plants based on real-time camera input.
 
 ## 🚀 Features
 
@@ -118,8 +117,10 @@ This is part of a robot that:
 
 ## 🧑‍💻 Author
 
-Anhaj
-GitHub: [https://github.com/Anhaj0](https://github.com/Anhaj0)
+**Anhaj Uwaisulkarni**
+
+Website: [anhaj0.github.io](https://anhaj0.github.io/)  
+GitHub: [github.com/Anhaj0](https://github.com/Anhaj0)
 Project for NIBM Robotics Coursework 2025
 
 ## 📜 License
